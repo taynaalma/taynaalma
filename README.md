@@ -1,5 +1,5 @@
-Oi me chamo Tayna Alma, e utilizo essa plataforma para entregar projetos 
-você pode me contadar pelo e-mail, taynaalma15@gmail.com
+Oi me chamo Tayna Alma, e utilizo essa plataforma para entregar projetos. 
+Você pode me contadar pelo e-mail, taynaalma15@gmail.com
 
 <!---
 taynaalma/taynaalma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
