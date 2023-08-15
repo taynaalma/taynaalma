@@ -1,4 +1,4 @@
-Oi me chamo Tayna Alma, e utilizo essa plataforma para entregar projetos. 
+Oi me chamo Tayna Alma. 
 Você pode me contadar pelo e-mail, taynaalma15@gmail.com
 
 <!---
