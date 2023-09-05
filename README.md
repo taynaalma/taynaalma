@@ -1,4 +1,4 @@
-Olá, me chamo Tayna Alma. 
+Olá, meu nome é Tayna Alma. 
 
 
 <!---
